@@ -1,1 +1,0 @@
-# docker_node_mongo_todo_app
